@@ -200,5 +200,5 @@ def tobin(arr):
         if(full>255):
             break
     print(innertxt)
-    txt.write(filePath,innertxt)
+    #txt.write(filePath,innertxt)
 tobin(vsl)
